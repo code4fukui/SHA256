@@ -1,6 +1,6 @@
 # SHA256.js
 
-A simple SHA-256 hash functions for JavaScript ES modules supports UTF-8 encoding for browsers and Deno. (using [Web Crypto API](https://developer.mozilla.org/ja/docs/Web/API/Web_Crypto_API), can't use on not SSL & Chrome)
+A simple SHA-256 hash functions for JavaScript ES modules supports UTF-8 encoding for browsers and Deno. (using [Web Crypto API](https://developer.mozilla.org/ja/docs/Web/API/Web_Crypto_API), can't use on not SSL & Chrome, if you want use [sha256-es](https://github.com/taisukef/sha256-es))
 
 ## Other platform
 
