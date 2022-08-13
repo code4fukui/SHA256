@@ -21,5 +21,12 @@ You could use like this:
 import { SHA256 } from "https://code4fukui.github.io/SHA256/SHA256.js";
 
 console.log(await SHA256.digest("Message to hash"));
-// 
+/*
+Uint8Array(32) [
+  241, 170,  69, 176, 245, 246, 112,  52,
+  104, 249, 185, 188,  43, 152, 116, 212,
+  250, 107,   0,  26,  23,  13,  15,  19,
+   42, 165, 162, 109,   0, 208, 199, 229
+]
+*/
 ```
